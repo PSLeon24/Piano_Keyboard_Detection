@@ -13,7 +13,7 @@ The piano keyboard detection is an object detection task that detects keyboard o
 
 ### Dataset
 We collected 2,605 images from divided in 5 technique related videos and we trained these data.<br>
-The class is defined as follows:<br>
+The class is defined as follow:<br>
 * keyboard
  
 ### Data Collection
