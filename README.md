@@ -4,7 +4,7 @@ The piano keyboard detection is an object detection task that detects keyboard o
 
 ### Models
 * <b>YOLOv5 model</b><br>
-  to be added!<br>
+  * <a href="https://github.com/PSLeon24/Piano_Keyboard_Detection/tree/main/YOLOV5">Go this project</a><br>
 * <b>SSD model</b><br>
   * <a href="https://github.com/PSLeon24/Piano_Keyboard_Detection/blob/main/SSD-MobileNet/">Go this project</a><br>
   → It is important to structure your directories strictly by following the guidelines well for this model.
