@@ -29,3 +29,4 @@ We used DarkLabel(Data Labeling Program operating in a Windows environment)
 ![label_images](https://github.com/PSLeon24/Piano_Keyboard_Detection/assets/59058869/f3e197ea-039c-4f82-a60c-8f515d4bd32a)
 ##### 2. SSD-MobileNet
 We converted labeled data for YOLOv5 to Pascal VOC data. Then we converted Pascal VOC data to csv files to make tfrecord files.
+![ssd](https://github.com/PSLeon24/Piano_Keyboard_Detection/assets/59058869/b9bc7ebc-804f-46fb-8d2e-0428894988cb)
